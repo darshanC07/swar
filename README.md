@@ -1,5 +1,7 @@
 # SWAR - Text to Music CLI Tool
 
+[demo video](swar_demo_video.mp4)
+
 **Swar** is a command-line tool that converts any textual or code input into musical notes, generating MIDI files and optional music sheets. This project is ideal for creative data transmission, artistic audio encoding, or simply transforming messages into music.
 
 ---
