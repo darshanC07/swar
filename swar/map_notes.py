@@ -6,7 +6,7 @@ def resource_path(path):
         return os.path.join(sys._MEIPASS, path)
     return path
 
-with open(resource_path('swar/notes.json'), 'r') as file:
+with open(resource_path('notes.json'), 'r') as file:
     data = json.load(file)
 
 special_symbols = {
