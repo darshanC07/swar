@@ -24,7 +24,7 @@ To install and use Swar, ensure you have Python 3.7+ installed.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/swar.git
+   git clone https://github.com/darshanC07/swar.git
    cd swar
 2. Install the project using pip:
 
