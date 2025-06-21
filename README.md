@@ -1,4 +1,4 @@
-# SWAR - Text to Music CLI Tool
+# SWAR - A new way of communication
 
 
 https://github.com/user-attachments/assets/bea1eeea-c6ed-4609-9b7e-44b13eb49b51
