@@ -63,8 +63,7 @@ Save a MusicXML file (sheet music) along with the MIDI.
 Examples:
 
   ```bash
-  swar musicfy "hello world" --output greeting
-  swar musicfy "for sheet music" -ms
+  swar musicfy "hello world" --output greeting -ms
   ```
     
 Play a MIDI File
