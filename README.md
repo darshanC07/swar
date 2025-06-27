@@ -1,7 +1,13 @@
 # SWAR - A new way of communication
 
 
-https://github.com/user-attachments/assets/bea1eeea-c6ed-4609-9b7e-44b13eb49b51
+
+
+
+
+https://github.com/user-attachments/assets/1922bde4-07e4-473b-a865-cc81d519fdfb
+
+
 
 
 **Swar** is a command-line tool that converts any textual or code input into musical notes, generating MIDI files and optional music sheets. This project is ideal for creative data transmission, artistic audio encoding, or simply transforming messages into music.
